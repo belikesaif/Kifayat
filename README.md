@@ -337,28 +337,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center">
         <img src="https://github.com/identicons/johndoe.png" width="100px;" alt=""/>
         <br />
-        <sub><b>John Doe</b></sub>
+        <sub><b>Sef</b></sub>
         <br />
         <sub>Project Lead</sub>
       </td>
       <td align="center">
         <img src="https://github.com/identicons/janedoe.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Jane Doe</b></sub>
+        <sub><b>Ahmet</b></sub>
         <br />
         <sub>AI Engineer</sub>
       </td>
       <td align="center">
         <img src="https://github.com/identicons/alicesmith.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Alice Smith</b></sub>
+        <sub><b>Arkham/b></sub>
         <br />
         <sub>Frontend Developer</sub>
       </td>
       <td align="center">
         <img src="https://github.com/identicons/bobsmith.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Bob Smith</b></sub>
+        <sub><b>Sef</b></sub>
         <br />
         <sub>Backend Developer</sub>
       </td>
